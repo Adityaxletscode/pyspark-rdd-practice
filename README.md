@@ -10,7 +10,7 @@ This repository contains a Jupyter Notebook with practical PySpark RDD problems 
 
 ```text
 pyspark-rdd-practice/
-├── PySparkRDD_Assignment.ipynb
+├── PySparkRDD_Assignment_sol.ipynb
 ├── questions.md
 └── README.md
 ```
